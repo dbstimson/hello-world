@@ -1,5 +1,4 @@
 # hello-world
-familiarization
-sample
+familiarization sample
 # and more
 more
